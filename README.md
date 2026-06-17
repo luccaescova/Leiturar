@@ -281,3 +281,34 @@ A pasta `public/books/` é gerada localmente pelos scripts acima e está no `.gi
    cd ../../FRONTEND/pages
    ```
    b. Acesse a interface abrindo `Login.html` no navegador.
+
+---
+
+## Equipe de Desenvolvimento
+
+| Nome                               | RA       |
+| -----------------------------------| -------- | 
+| Felipe Andretta                    | 23007744 | 
+| João Victor Lunardini              | 23028241 |
+| Kaio Augusto Burilli               | 23020613 |
+| Lucca Schroelder Scovini           | 24011609 |
+| Paulo Cesar Whitehead Junior       | 24018776 |
+| Pedro Henrique Ribeiro Silva Murta | 24015586 | 
+---
+
+## Roadmap
+
+1. Levantamento de requisitos e ideação
+2. Definição do MVP e arquitetura
+3. Desenvolvimento da IA
+4. Integração com MongoDB
+5. Implementação do front-end
+6. Testes e refinamento
+7. Lançamento do Beta
+
+---
+
+## Licença
+
+Este projeto é de uso educacional, desenvolvido no contexto da disciplina **Ideação e Validação em Engenharia de Software – PUC-Campinas (2026)**.
+Distribuído sob a licença **MIT**.
